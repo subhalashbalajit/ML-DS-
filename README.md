@@ -1,4 +1,4 @@
-# Machine Learning & NLP Mini-Projects
+# Machine Learning Mini-Projects
 
 A collection of four end-to-end Machine Learning and NLP projects built in Python using `scikit-learn`, `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 
